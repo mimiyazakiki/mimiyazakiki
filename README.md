@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm a passionate software develoeper 🦄 from Malaysia 🇲🇾.</p>
+<p align="left">I'm a passionate software developer 🦄 from Malaysia 🇲🇾.</p>
 
 - 📚 Bachelor of Engineering (Honours) in Software Engineering from Monash University (2020-2024)
   
